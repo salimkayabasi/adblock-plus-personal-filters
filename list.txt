@@ -6,3 +6,5 @@
 
 @@||sozcu.com.tr/*/assets/js/ads.js
 @@||cdn.vidyomani.com/c/p/showads.js$script,domain=cdn00.vidyomani.com
+
+t24.com.tr##.top-banner-wrapper
