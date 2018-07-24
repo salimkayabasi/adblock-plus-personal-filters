@@ -4,10 +4,10 @@
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/salimkayabasi/adblock-plus-personal-filters
 
-@@||*infisecure*
 @@||sozcu.com.tr/*/assets/js/ads.js
 @@||cdn.vidyomani.com/c/p/showads.js$script,domain=cdn00.vidyomani.com
 
-@@||hstats.hepsiburada.com/api/track
-@@||segmentify.com/*event*.json
-@@||logx.optimizely.com/*/event*
+||*infisecure*
+||hstats.hepsiburada.com/api/track
+||segmentify.com/*event*.json
+||logx.optimizely.com/*/event*
