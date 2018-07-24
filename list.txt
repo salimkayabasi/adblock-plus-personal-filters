@@ -8,3 +8,6 @@
 @@||cdn.vidyomani.com/c/p/showads.js$script,domain=cdn00.vidyomani.com
 
 t24.com.tr##.top-banner-wrapper
+hurriyet.com.tr#?#.news-wrapper:-abp-has(>[href*="galeri"])
+hurriyet.com.tr#?#.news-wrapper:-abp-has(>[href*="kelebek"])
+hurriyet.com.tr#?#.news-wrapper:-abp-has(>[href*="magazin"])
