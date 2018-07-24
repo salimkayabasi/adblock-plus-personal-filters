@@ -8,7 +8,3 @@
 @@||cdn.vidyomani.com/c/p/showads.js$script,domain=cdn00.vidyomani.com
 
 t24.com.tr##.top-banner-wrapper
-t24.com.tr##.torial
-t24.com.tr###dfp-right
-t24.com.tr##.tise-banner
-t24.com.tr###rightreklamdiv
